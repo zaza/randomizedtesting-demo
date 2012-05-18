@@ -6,3 +6,5 @@ Bundle-Version: 1.0.0.qualifier
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
 Bundle-Vendor: Tomasz Zarna
 Require-Bundle: org.junit;bundle-version="4.9.0"
+Import-Package: com.carrotsearch.randomizedtesting;version="1.6.0.SNAPSHOT",
+ com.carrotsearch.randomizedtesting.annotations;version="1.6.0.SNAPSHOT"
